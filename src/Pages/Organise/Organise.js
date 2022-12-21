@@ -97,6 +97,14 @@ function Organise() {
       </select>
     </div>
     </div>
+ <div class="form-group row">
+      <div class="col-lg-3 col-md-5 col-sm-7">
+            <label>Upload Images</label> 
+                <div class="input-group custom-file mb-3">
+                    <input type="file" class="form-control" id="image" name="image"/>
+                </div>
+        </div>
+        </div>
   
   <div class="form-group row">
     <div class="col-lg-3 col-md-5 col-sm-7">
